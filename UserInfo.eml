@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component inherit-compiler-output="true" inheritJdk="true">
+	<output-test url="file://$MODULE_DIR$/out/test/UserInfo"/>
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$"/>
+	<levels>
+		<level name="Spring-4.1.6.RELEASE" value="project"/>
+		<level name="Spring MVC-4.1.6.RELEASE" value="project"/>
+		<level name="servlet-api" value="project"/>
+		<level name="junit-4.12" value="project"/>
+		<level name="javax.servlet.jsp.jstl-api-1.2.1" value="project"/>
+		<level name="jstl-1.2" value="project"/>
+		<level name="standard-1.1.2" value="project"/>
+		<level name="aopalliance-1.0" value="project"/>
+		<level name="tiles-api-3.0.5" value="project"/>
+		<level name="tiles-autotag-core-runtime-1.1.0" value="project"/>
+		<level name="commons-beanutils-1.8.0" value="project"/>
+		<level name="Hibernate 4.2.2-4.2.2" value="project"/>
+		<level name="hibernate" value="project"/>
+	</levels>
+</component>

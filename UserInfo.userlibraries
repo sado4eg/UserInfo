@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="tiles-api-3.0.5">
+    <archive path="C:/Users/alex/IdeaProjects/UserInfo/war/WEB-INF/lib/tiles-api-3.0.5.jar" />
+    <archive path="C:/Users/alex/IdeaProjects/UserInfo/war/WEB-INF/lib/tiles-core-3.0.5.jar" />
+    <archive path="C:/Users/alex/IdeaProjects/UserInfo/war/WEB-INF/lib/tiles-jsp-3.0.5.jar" />
+    <archive path="C:/Users/alex/IdeaProjects/UserInfo/war/WEB-INF/lib/tiles-servlet-3.0.5.jar" />
+    <archive path="C:/Users/alex/IdeaProjects/UserInfo/war/WEB-INF/lib/tiles-template-3.0.5.jar" />
+  </library>
+  <library name="Spring MVC-4.1.6.RELEASE" />
+  <library name="Spring-4.1.6.RELEASE" />
+  <library name="javax.servlet.jsp.jstl-api-1.2.1" />
+  <library name="junit-4.12" />
+  <library name="jstl-1.2" />
+  <library name="aopalliance-1.0">
+    <archive path="C:/Users/alex/IdeaProjects/UserInfo/war/WEB-INF/lib/aopalliance-1.0.jar" />
+    <archive path="C:/Users/alex/IdeaProjects/UserInfo/war/WEB-INF/lib/commons-logging-1.1.3.jar" />
+    <archive path="C:/Users/alex/IdeaProjects/UserInfo/war/WEB-INF/lib/jstl-1.2.jar" />
+    <archive path="C:/Users/alex/IdeaProjects/UserInfo/war/WEB-INF/lib/junit-4.12.jar" />
+    <archive path="C:/Users/alex/IdeaProjects/UserInfo/war/WEB-INF/lib/servlet-api.jar" />
+    <archive path="C:/Users/alex/IdeaProjects/UserInfo/war/WEB-INF/lib/spring-aop-4.1.6.RELEASE.jar" />
+    <archive path="C:/Users/alex/IdeaProjects/UserInfo/war/WEB-INF/lib/spring-aspects-4.1.6.RELEASE.jar" />
+    <archive path="C:/Users/alex/IdeaProjects/UserInfo/war/WEB-INF/lib/spring-beans-4.1.6.RELEASE.jar" />
+    <archive path="C:/Users/alex/IdeaProjects/UserInfo/war/WEB-INF/lib/spring-context-4.1.6.RELEASE.jar" />
+    <archive path="C:/Users/alex/IdeaProjects/UserInfo/war/WEB-INF/lib/spring-context-support-4.1.6.RELEASE.jar" />
+    <archive path="C:/Users/alex/IdeaProjects/UserInfo/war/WEB-INF/lib/spring-core-4.1.6.RELEASE.jar" />
+    <archive path="C:/Users/alex/IdeaProjects/UserInfo/war/WEB-INF/lib/spring-expression-4.1.6.RELEASE.jar" />
+    <archive path="C:/Users/alex/IdeaProjects/UserInfo/war/WEB-INF/lib/spring-instrument-4.1.6.RELEASE.jar" />
+    <archive path="C:/Users/alex/IdeaProjects/UserInfo/war/WEB-INF/lib/spring-instrument-tomcat-4.1.6.RELEASE.jar" />
+    <archive path="C:/Users/alex/IdeaProjects/UserInfo/war/WEB-INF/lib/spring-jdbc-4.1.6.RELEASE.jar" />
+    <archive path="C:/Users/alex/IdeaProjects/UserInfo/war/WEB-INF/lib/spring-jms-4.1.6.RELEASE.jar" />
+    <archive path="C:/Users/alex/IdeaProjects/UserInfo/war/WEB-INF/lib/spring-messaging-4.1.6.RELEASE.jar" />
+    <archive path="C:/Users/alex/IdeaProjects/UserInfo/war/WEB-INF/lib/spring-orm-4.1.6.RELEASE.jar" />
+    <archive path="C:/Users/alex/IdeaProjects/UserInfo/war/WEB-INF/lib/spring-oxm-4.1.6.RELEASE.jar" />
+    <archive path="C:/Users/alex/IdeaProjects/UserInfo/war/WEB-INF/lib/spring-test-4.1.6.RELEASE.jar" />
+    <archive path="C:/Users/alex/IdeaProjects/UserInfo/war/WEB-INF/lib/spring-tx-4.1.6.RELEASE.jar" />
+    <archive path="C:/Users/alex/IdeaProjects/UserInfo/war/WEB-INF/lib/spring-web-4.1.6.RELEASE.jar" />
+    <archive path="C:/Users/alex/IdeaProjects/UserInfo/war/WEB-INF/lib/spring-webmvc-4.1.6.RELEASE.jar" />
+    <archive path="C:/Users/alex/IdeaProjects/UserInfo/war/WEB-INF/lib/spring-webmvc-portlet-4.1.6.RELEASE.jar" />
+    <archive path="C:/Users/alex/IdeaProjects/UserInfo/war/WEB-INF/lib/spring-websocket-4.1.6.RELEASE.jar" />
+  </library>
+  <library name="servlet-api" />
+  <library name="commons-beanutils-1.8.0">
+    <archive path="C:/Users/alex/IdeaProjects/UserInfo/war/WEB-INF/lib/commons-beanutils-1.8.0.jar" />
+    <archive path="C:/Users/alex/IdeaProjects/UserInfo/war/WEB-INF/lib/commons-digester-2.0.jar" />
+    <archive path="C:/Users/alex/IdeaProjects/UserInfo/war/WEB-INF/lib/jcl-over-slf4j-1.7.6.jar" />
+    <archive path="C:/Users/alex/IdeaProjects/UserInfo/war/WEB-INF/lib/slf4j-api-1.7.6.jar" />
+  </library>
+  <library name="standard-1.1.2" />
+  <library name="tiles-autotag-core-runtime-1.1.0">
+    <archive path="C:/Users/alex/IdeaProjects/UserInfo/war/WEB-INF/lib/tiles-autotag-core-runtime-1.1.0.jar" />
+    <archive path="C:/Users/alex/IdeaProjects/UserInfo/war/WEB-INF/lib/tiles-compat-3.0.5.jar" />
+    <archive path="C:/Users/alex/IdeaProjects/UserInfo/war/WEB-INF/lib/tiles-core-3.0.5.jar" />
+    <archive path="C:/Users/alex/IdeaProjects/UserInfo/war/WEB-INF/lib/tiles-el-3.0.5.jar" />
+    <archive path="C:/Users/alex/IdeaProjects/UserInfo/war/WEB-INF/lib/tiles-extras-3.0.5.jar" />
+    <archive path="C:/Users/alex/IdeaProjects/UserInfo/war/WEB-INF/lib/tiles-freemarker-3.0.5.jar" />
+    <archive path="C:/Users/alex/IdeaProjects/UserInfo/war/WEB-INF/lib/tiles-jsp-3.0.5.jar" />
+    <archive path="C:/Users/alex/IdeaProjects/UserInfo/war/WEB-INF/lib/tiles-mvel-3.0.5.jar" />
+    <archive path="C:/Users/alex/IdeaProjects/UserInfo/war/WEB-INF/lib/tiles-ognl-3.0.5.jar" />
+    <archive path="C:/Users/alex/IdeaProjects/UserInfo/war/WEB-INF/lib/tiles-request-api-1.0.6.jar" />
+    <archive path="C:/Users/alex/IdeaProjects/UserInfo/war/WEB-INF/lib/tiles-request-freemarker-1.0.6.jar" />
+    <archive path="C:/Users/alex/IdeaProjects/UserInfo/war/WEB-INF/lib/tiles-request-jsp-1.0.6.jar" />
+    <archive path="C:/Users/alex/IdeaProjects/UserInfo/war/WEB-INF/lib/tiles-request-mustache-1.0.6.jar" />
+    <archive path="C:/Users/alex/IdeaProjects/UserInfo/war/WEB-INF/lib/tiles-request-servlet-1.0.6.jar" />
+    <archive path="C:/Users/alex/IdeaProjects/UserInfo/war/WEB-INF/lib/tiles-request-servlet-wildcard-1.0.6.jar" />
+    <archive path="C:/Users/alex/IdeaProjects/UserInfo/war/WEB-INF/lib/tiles-request-velocity-1.0.6.jar" />
+    <archive path="C:/Users/alex/IdeaProjects/UserInfo/war/WEB-INF/lib/tiles-servlet-3.0.5.jar" />
+    <archive path="C:/Users/alex/IdeaProjects/UserInfo/war/WEB-INF/lib/tiles-template-3.0.5.jar" />
+    <archive path="C:/Users/alex/IdeaProjects/UserInfo/war/WEB-INF/lib/tiles-velocity-3.0.5.jar" />
+  </library>
+  <library name="Hibernate 4.2.2-4.2.2" />
+  <library name="hibernate">
+    <archive path="C:/Users/alex/IdeaProjects/UserInfo/war/WEB-INF/lib/antlr-2.7.7.jar" />
+    <archive path="C:/Users/alex/IdeaProjects/UserInfo/war/WEB-INF/lib/dom4j-1.6.1.jar" />
+    <archive path="C:/Users/alex/IdeaProjects/UserInfo/war/WEB-INF/lib/hibernate-commons-annotations-4.0.2.Final.jar" />
+    <archive path="C:/Users/alex/IdeaProjects/UserInfo/war/WEB-INF/lib/hibernate-core-4.2.2.Final.jar" />
+    <archive path="C:/Users/alex/IdeaProjects/UserInfo/war/WEB-INF/lib/hibernate-jpa-2.0-api-1.0.1.Final.jar" />
+    <archive path="C:/Users/alex/IdeaProjects/UserInfo/war/WEB-INF/lib/javassist-3.15.0-GA.jar" />
+    <archive path="C:/Users/alex/IdeaProjects/UserInfo/war/WEB-INF/lib/jboss-logging-3.1.0.GA.jar" />
+    <archive path="C:/Users/alex/IdeaProjects/UserInfo/war/WEB-INF/lib/jboss-transaction-api_1.1_spec-1.0.1.Final.jar" />
+  </library>
+</eclipse-userlibraries>
+
